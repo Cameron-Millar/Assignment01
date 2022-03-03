@@ -21,4 +21,5 @@ dependencies {
     implementation 'org.apache.commons:commons-csv:1.8'
 }
 
-mainClassName = 'csci2020u.Assignment01.Factorytest'
+mainClassName = 'csci2020u.Assignment01.FactoryTest'
+version = '1.0'
